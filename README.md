@@ -1,2 +1,2 @@
 # Kryptonite
-Kryptonite the ECR20 token
+Kryptonite is an ERC20 Token which will later implement Staking!
